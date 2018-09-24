@@ -1,0 +1,16 @@
+body {
+  background-color: #333;
+  background-size: cover;
+  margin-left: 50px;
+}
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: none;
+}
+h1 {
+  color: Dark Blue;
+  font-size: 50px;
+  font-family: sans-serif;
+  margin-left: 60px;
+  margin-top: 80px;
